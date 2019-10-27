@@ -108,3 +108,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+.01_GoogleNews-vectors-negative300.bin
+01_GoogleNews-vectors-negative300.bin
+model/
